@@ -33,9 +33,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CDN -->
-## CDN Link
+## Include via CDN
 ```
-https://cdn.jsdelivr.net/gh/QuantumOcean/seaglass_us/dist/css/seaglass.css
+<link href="https://cdn.jsdelivr.net/gh/QuantumOcean/seaglass_ui/dist/css/seaglass.css">
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
