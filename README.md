@@ -21,8 +21,7 @@
 
 <!-- ![Product Name Screen Shot][product-screenshot] -->
 
- **Seaglass** 
-
+ **Seaglass** is currently being constructed. 
 
 <!-- ROADMAP -->
 <!-- ## Roadmap
