@@ -35,7 +35,7 @@
 <!-- CDN -->
 ## CDN Link
 ```
-https://cdn.jsdelivr.net/gh/QuantumOcean/repo@version/file
+https://cdn.jsdelivr.net/gh/QuantumOcean/seaglass_us/dist/css/seaglass.css
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
