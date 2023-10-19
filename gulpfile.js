@@ -3,8 +3,8 @@ const gulp = require('gulp');
 const sass = require('gulp-sass')(require('sass'));
 const rename = require('gulp-rename');
 const autoprefixer = require('gulp-autoprefixer');
-const gulpPostcss = require('gulp-postcss');
 const sourcemaps = require('gulp-sourcemaps');
+const postcss = require('gulp-postcss');
 
 let srcPath = 'scss/seaglass.scss';
 let destPath = 'dist/css';
@@ -17,10 +17,11 @@ gulp.task('default', function (done) {
       outputStyle: 'expanded'
     })
     .on('error', sass.logError))
-    .pipe(autoprefixer({
-      overrideBrowserslist: ['last 2 versions'],
-      cascade: false
-    }))
+    // .pipe(autoprefixer({
+    //   overrideBrowserslist: ['last 2 versions'],
+    //   cascade: false
+    // }))
+    .pipe(postcss())
     .pipe(gulp.dest(destPath))
     .pipe(sass({
       outputStyle: 'compressed'
