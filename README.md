@@ -1,1 +1,46 @@
+<a name="readme-top"></a>
 
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <!-- <img src="#" alt="Logo" width="300px" height=""> -->
+
+  <h1 align="center">Seaglass</h1>
+
+  <p align="center">
+    <br />
+    <br />
+    <br />
+  </p>
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project 
+
+<!-- ![Product Name Screen Shot][product-screenshot] -->
+
+ **Seaglass** 
+
+
+<!-- ROADMAP -->
+<!-- ## Roadmap
+
+- [ ] 
+- [ ] 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
+<!-- CDN -->
+## CDN Link
+```
+https://cdn.jsdelivr.net/gh/QuantumOcean/repo@version/file
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: public/images/screenshot.png
+[Node.js]: https://img.shields.io/badge/node.js-7FC729?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nextjs.org/
