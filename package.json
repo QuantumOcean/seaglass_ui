@@ -19,14 +19,19 @@
     "classes"
   ],
   "author": "QuantumOcean",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/QuantumOcean/seaglass_ui/issues"
   },
   "homepage": "https://github.com/QuantumOcean/seaglass_ui#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "postcss": "^8.4.31",
     "sass": "^1.69.4"
   }
 }
