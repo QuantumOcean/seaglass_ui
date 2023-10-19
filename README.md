@@ -4,9 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <!-- <img src="#" alt="Logo" width="300px" height=""> -->
-
-  <h1 align="center">Seaglass</h1>
+    <img src=".github/seaglass_logo.png" alt="Logo" width="300px" height="">
 
   <p align="center">
     <br />
