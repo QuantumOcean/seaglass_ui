@@ -8,7 +8,7 @@
 
   <p align="center">
     <br>
-    Seaglass is being constructed. Check back soon!
+    Seaglass is under development. Check back soon!
     <br>
     <br>
     <br>
