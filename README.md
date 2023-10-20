@@ -57,6 +57,22 @@ Glassmorphism, characterized by its translucency, glassy backgrounds, and soft b
 - [ ] Testing
 - [ ] Documentation
 
+| Category             | Components                                               |
+|--------------------- |----------------------------------------------------------|
+| Components           | Buttons, Cards, Forms, Navbars, Modals, Tables, Tooltips |
+| Interactive Elements | Progress Bars, Sliders, Accordions, Carousels            |
+| Utilities            | Colors, Shadows, Translucency                            |
+| Layout               | Grid, Flexbox                                            |
+| Accessibility        |                                                          |
+| Testing              |                                                          |
+| Documentation        |                                                          |
+
+| Components | Interactive Elements | Utilities | Layout | Accessibility | Testing | Documentation |
+|------------|----------------------|-----------|--------|---------------|---------|---------------|
+| [ ] Buttons|[ ] Progress Bars     | [ ] Colors| Grid   |      [ ]      |   [ ]   |      [ ]      |
+
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 Contributions are currently not being accepted at this stage of the project. However, if you have any ideas or suggestions, feel free to open an issue to discuss them. Your feedback is always welcome!
@@ -69,7 +85,6 @@ Easily include the Seaglass UI CSS library in your project via the following CDN
 <link href="https://cdn.jsdelivr.net/gh/QuantumOcean/seaglass_ui/dist/css/seaglass.min.css">
 ```
 > **Note**: The library is currently in development and is not yet production ready. You are welcome to test out at any point of our pre-release. However, please be aware that the library is subject to change and may not be fully functional.
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ## Contact
 
