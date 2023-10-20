@@ -7,19 +7,28 @@
     <img src=".github/seaglass_logo.png" alt="Logo" width="300px" height="">
 
   <p align="center">
-    <br />
-    <br />
-    <br />
+    <br>
+    Seaglass is under construction. Check back soon!
+    <br>
+    <br>
+    <br>
   </p>
 </div>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project 
+## Overview
+**Seaglass** is a versatile and user-friendly tool designed for web developers to help them create visually stunning, modern, and immersive user interfaces. Rooted in the elegant design principles of glassmorphism, Seaglass unlocks the potential for web designers and developers to captivate their audiences with translucent and sleek UI elements.
+
+Glassmorphism, characterized by its translucency, glassy backgrounds, and soft blur, has emerged as a dominant design trend in recent years. It effortlessly combines aesthetics, usability, and innovation, making it an ideal choice for crafting user interfaces that leave a lasting impact.
 
 <!-- ![Product Name Screen Shot][product-screenshot] -->
 
- **Seaglass** is currently being constructed. 
+## Key Features
+- **Sleek Glassmorphic Design**: The library provides a wide range of CSS styles and components, dedicated to make it easy to achieve glassmorphic design in your web applications.
+- **Translucent Elements**: Create elements with varying levels of translucency, adding depth and dimension to your web interfaces.
+- **User-Friendly Customization**: The library's classes and components are highly customizable, allowing you to adapt them to suit your unique design requirements.
+- **Cross-Browser Compatibility**: Seaglass ensures seamless compatibility with various web browsers, so your glassmorphic designs look as expected for all your users.
 
 <!-- ROADMAP -->
 <!-- ## Roadmap
