@@ -18,7 +18,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Overview
-**Seaglass** is a versatile and user-friendly tool designed for web developers to help them create visually stunning, modern, and immersive user interfaces. Rooted in the elegant design principles of glassmorphism, Seaglass unlocks the potential for web designers and developers to captivate their audiences with translucent and sleek UI elements.
+Seaglass is a versatile and user-friendly tool designed for web developers to help them create visually stunning, modern, and immersive user interfaces. Rooted in the elegant design principles of glassmorphism, Seaglass unlocks the potential for web designers and developers to captivate their audiences with translucent and sleek UI elements.
 
 Glassmorphism, characterized by its translucency, glassy backgrounds, and soft blur, has emerged as a dominant design trend in recent years. It effortlessly combines aesthetics, usability, and innovation, making it an ideal choice for crafting user interfaces that leave a lasting impact.
 
