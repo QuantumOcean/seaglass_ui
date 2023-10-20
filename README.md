@@ -68,7 +68,7 @@ Easily include the Seaglass UI CSS library in your project via the following CDN
 ```
 <link href="https://cdn.jsdelivr.net/gh/QuantumOcean/seaglass_ui/dist/css/seaglass.min.css">
 ```
-> **Note**: The library is currently in development and is not yet production ready. Check back soon!
+> **Note**: The library is currently in development and is not yet production ready. You are welcome to test out at any point of our pre-release. However, please be aware that the library is subject to change and may not be fully functional.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
