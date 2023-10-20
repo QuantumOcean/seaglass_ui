@@ -31,12 +31,33 @@ Glassmorphism, characterized by its translucency, glassy backgrounds, and soft b
 - **Cross-Browser Compatibility**: Seaglass ensures seamless compatibility with various web browsers, so your glassmorphic designs look as expected for all your users.
 
 <!-- ROADMAP -->
-<!-- ## Roadmap
+## Roadmap
 
-- [ ] 
-- [ ] 
+- [ ] Components
+  - [ ] Buttons
+  - [ ] Cards
+  - [ ] Forms
+  - [ ] Navbars
+  - [ ] Modals
+  - [ ] Tables
+  - [ ] Tooltips
+- [ ] Interactive Elements
+  - [ ] Progress Bars
+  - [ ] Sliders
+  - [ ] Accordions
+  - [ ] Carousels
+- [ ] Utilities
+  - [ ] Colors
+  - [ ] Shadows
+  - [ ] Translucency
+- [ ] Layout
+  - [ ] Grid
+  - [ ] Flexbox
+- [ ] Accessibility
+  - [ ] Keyboard Navigation
+  - [ ] Screen Readers
+- [ ] Documentation
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CDN -->
 ## Include via CDN
