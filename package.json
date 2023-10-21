@@ -18,13 +18,13 @@
     "CSS",
     "classes"
   ],
-  "author": "QuantumOcean",
+  "author": "Fred Schuck",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/QuantumOcean/seaglass_ui/issues"
   },
   "homepage": "https://github.com/QuantumOcean/seaglass_ui#readme",
-  "devDependencies": {
+  "devDependencies": { 
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-postcss": "^9.0.1",
