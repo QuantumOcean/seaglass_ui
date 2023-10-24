@@ -1,0 +1,16 @@
+.glass-btn {
+  background: $glass-btn-bg;
+  border: 1px solid $glass-btn-border;
+  color: $glass-btn-text-color;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  transition: background 0.3s, border 0.3s, transform 0.2s;
+
+  &:hover {
+    background: $glass-btn-hover-bg;
+    border: 1px solid $glass-btn-hover-border;
+    transform: translateY(-2px);
+  }
+}

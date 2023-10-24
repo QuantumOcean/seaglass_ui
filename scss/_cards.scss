@@ -1,0 +1,17 @@
+.glass-card {
+    background: $glass-bg-color;
+    border: 1px solid $glass-border-color;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: $glass-box-shadow;
+  }
+  
+  .glass-card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .glass-card-content {
+    margin-top: 10px;
+  }
+  

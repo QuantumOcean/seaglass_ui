@@ -1,1 +1,91 @@
-//$bg: #ccc;
+$default-font-family: 'Poppins', sans-serif;
+
+// Colors
+$glass-bg-color: rgba(255, 255, 255, 0.1);
+$glass-border-color: rgba(255, 255, 255, 0.2);
+
+// Button Styles
+$glass-btn-bg: $glass-bg-color;
+$glass-btn-border: $glass-border-color;
+$glass-btn-text-color: #fff;
+$glass-btn-hover-bg: rgba(255, 255, 255, 0.2);
+$glass-btn-hover-border: rgba(255, 255, 255, 0.3);
+
+// Other Styles
+$glass-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
+$glass-text-input-bg: rgba(255, 255, 255, 0.1);
+
+/*****************
+*   Base Values
+*****************/
+
+
+// Neutral Colors
+$neutral-100: #f5f5f5;
+$neutral-200: #e0e0e0;
+$neutral-300: #c0c0c0;
+$neutral-400: #9e9e9e;
+$neutral-500: #757575;
+$neutral-600: #616161;
+$neutral-700: #424242;
+$neutral-800: #212121;
+$neutral-900: #141414;
+
+// Border Colors
+$border-color: $neutral-400;
+$border-hover-color: $neutral-500;
+
+// Background Colors
+$background-color: $neutral-100;
+$background-alternate-color: $neutral-200;
+
+// Text Colors
+$text-color: $neutral-800;
+$text-alternate-color: $neutral-700;
+
+// Button Styles
+$button-bg: $background-color;
+$button-border: $border-color;
+$button-text-color: $text-color;
+$button-hover-bg: $background-alternate-color;
+$button-hover-border: $border-hover-color;
+
+// Other Base Values
+$border-radius: 4px;
+$box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
+
+/**************
+*   Layout
+**************/
+
+// Grid System
+$grid-columns: 12;
+$grid-gutter: 16px;
+
+// Spacing Units
+$spacing-unit: 8px;
+$spacing-unit-half: $spacing-unit / 2;
+$spacing-unit-double: $spacing-unit * 2;
+$spacing-unit-quadruple: $spacing-unit * 4;
+
+// Breakpoints
+$breakpoint-small: 576px;
+$breakpoint-medium: 768px;
+$breakpoint-large: 992px;
+$breakpoint-xlarge: 1200px;
+
+// Container
+$container-max-width: 100%;
+$container-padding: $spacing-unit;
+
+// Z-Index
+$z-index-modal: 1000;
+$z-index-dropdown: 500;
+$z-index-tooltip: 200;
+
+// Aspect Ratios (for responsive media)
+$ratio-16x9: 56.25%;
+$ratio-4x3: 75%;
+
+// Typography
+$line-height: 1.5;
