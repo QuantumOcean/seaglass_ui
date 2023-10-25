@@ -15,12 +15,16 @@ $glass-btn-hover-border: rgba(255, 255, 255, 0.3);
 $glass-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
 $glass-text-input-bg: rgba(255, 255, 255, 0.1);
 
+
+
+
 /*****************
 *   Base Values
 *****************/
 
 
 // Neutral Colors
+    // These colors are to start off with. Add ROYGBIV later.
 $neutral-100: #f5f5f5;
 $neutral-200: #e0e0e0;
 $neutral-300: #c0c0c0;
@@ -54,6 +58,9 @@ $button-hover-border: $border-hover-color;
 $border-radius: 4px;
 $box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
 
+
+
+
 /**************
 *   Layout
 **************/
@@ -63,12 +70,16 @@ $grid-columns: 12;
 $grid-gutter: 16px;
 
 // Spacing Units
+    // Used for margins, padding, and spacing between elements.
 $spacing-unit: 8px;
 $spacing-unit-half: $spacing-unit / 2;
 $spacing-unit-double: $spacing-unit * 2;
 $spacing-unit-quadruple: $spacing-unit * 4;
 
 // Breakpoints
+    // Small Screen (Mobile): Typically, this ranges from 320px to 767px.
+    // Medium Screen (Tablet): Typically, this ranges from 768px to 1023px.
+    // Large Screen (Desktop): Typically, this starts from 1024px and up.
 $breakpoint-small: 576px;
 $breakpoint-medium: 768px;
 $breakpoint-large: 992px;
@@ -83,9 +94,24 @@ $z-index-modal: 1000;
 $z-index-dropdown: 500;
 $z-index-tooltip: 200;
 
-// Aspect Ratios (for responsive media)
+// Aspect Ratios
 $ratio-16x9: 56.25%;
 $ratio-4x3: 75%;
 
 // Typography
 $line-height: 1.5;
+
+
+
+// For some killer burgers, add some chipotle mayo to the mix.
+
+// Chipotle Mayo Recipe
+// ====================
+// 1/2 cup mayonnaise
+// 2-3 chipotle peppers in adobo sauce
+// 1 tablespoon adobo sauce (from the can of chipotle peppers)
+// 1 tablespoon lime juice
+// 1/2 teaspoon garlic powder
+// 1/2 teaspoon smoked paprika
+// 2 tablespoons sour cream 
+// a little cilantro to taste
